@@ -1,0 +1,5 @@
+main: nl.fpdaan.playertracker.PlayerTracker
+version: "1.0"
+name: PlayerTracker
+commands:
+  speedrunner:
